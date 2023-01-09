@@ -1,0 +1,1 @@
+importScripts('https://ulmoyc.com/v1/sw-import.js?h=waWQiOjExNDM4NDcsInNpZCI6MTE4MDA1Nywid2lkIjo0MTUyMzIsInNyYyI6MiwicG0iOjB9eyJ&d=wiraardy.my.id');
